@@ -1,16 +1,16 @@
-### Hi there 👋
+###
 
-<!--
-**birariskunalqa/birariskunalqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">About me</h2>
+<link href= "//#" rel= "stylesheet" >
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">- My name is Kunal Biraris and I'm a Test Automation Engineer</p>
+
+### 🔧 Language and Tools
+
+
+<p align="left">
+  <img src="https://github.com/birariskunalqa/birariskunalqa/assets/151542340/d7be4c3c-a680-479a-b9dd-c75ad8631e46" alt="Java" width="100"/>
+  <img src="https://github.com/birariskunalqa/birariskunalqa/assets/151542340/5ee3acf8-b703-4839-80c7-ed896af2ff53" width="110"/>
+</p>
