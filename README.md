@@ -5,7 +5,9 @@
 
 ###
 
-<p align="left">- My name is Kunal Biraris and I'm a Test Automation Engineer</p>
+<p align="left">- I am a Test Automation Engineer</p>
+<p align="left">- Bachelor of Engineering in Computer Science</p>
+<a href="https://www.linkedin.com/in/kunal-biraris/" rel="nofollow">LinkedIn</a>
 
 ### 🔧 Language and Tools
 
