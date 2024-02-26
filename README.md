@@ -8,7 +8,7 @@
 <ul>
   <li> I am a Test Automation Engineer</li>
   <li>Engineering graduate specialized in Computer Science</li>
-  <li><a href="https://www.linkedin.com/in/kunal-biraris/" rel="nofollow">ISTQB Certified Tester Foundation Level</a></li>
+  <li><a href="https://drive.google.com/file/d/1q1F2w1X35P2SMDX9t8ihlmysqVTNHzof/view?usp=drive_link" rel="nofollow">ISTQB Certified Tester Foundation Level</a></li>
   <li> Recommendation letters from <a href="https://drive.google.com/file/d/15YiYyPSio0IYBUwPE12qOp5uFcRfEB40/view?usp=drive_link">SDET Manager</a>, <a href="https://drive.google.com/file/d/1hyrf9CiSjwyV47pZ2hKwJo_OewuoURQP/view?usp=drive_link">Technical Lead</a>, <a href="https://drive.google.com/file/d/1tyKkyuzA5_sLKp3EhFH8qehY9U7Hs5VD/view?usp=drive_link">QA Lead</a></li>
   <li><a href="https://drive.google.com/file/d/1OWpM_YnuQVEvaZfxnmOQJzjINT10Kj7U/view?usp=drive_link" rel="nofollow"> CV </a></li>
   <li><a href="https://www.linkedin.com/in/kunal-biraris/" rel="nofollow">LinkedIn</a></li>
